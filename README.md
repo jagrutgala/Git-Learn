@@ -8,3 +8,4 @@ Github
 Colors
 Red Green Blue
 Cyan Magenta Yellow Black
+Hue Saturation Brightness
