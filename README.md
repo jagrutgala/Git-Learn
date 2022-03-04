@@ -7,3 +7,4 @@ Git Lit
 Github
 Colors
 Red Green Blue
+Cyan Magenta Yellow Black
